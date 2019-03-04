@@ -100,4 +100,9 @@ ENV/
 # mypy
 .mypy_cache/
 
-RUNS/
+#RUNS/
+.vscode/
+model/
+model-10-epochs/
+runs/1551572104.5378811/
+runs/1551581121.4069293/
