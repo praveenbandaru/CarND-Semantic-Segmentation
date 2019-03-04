@@ -1,6 +1,6 @@
 # Semantic Segmentation
 ### Introduction
-In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
+The goal of this project is to label the pixels of a road in images using a Fully Convolutional Network (FCN) as described in the [Fully Convolutional Networks for Semantic Segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf) by Jonathan Long, Even Shelhamer, and Trevor Darrel. This uses a VGG-16 based FCN model and is trained on the [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road.php). The project is based on the starter code provided by Udacity in this [repo](https://github.com/udacity/CarND-Semantic-Segmentation).
 
 ### Setup
 ##### GPU
